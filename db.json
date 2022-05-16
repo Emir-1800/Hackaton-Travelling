@@ -1,0 +1,26 @@
+{
+  "travel": [
+    {
+      "productTour": "Kochkor",
+      "productInformation": "must visit",
+      "productImage": "https://avatars.mds.yandex.net/i?id=9a3f9a61cdc6e0bd2b0e3c21463995d7-5858046-images-thumbs&n=13&exp=1",
+      "productPrice": "100$",
+      "id": 1
+    },
+    {
+      "productTour": "Nookat",
+      "productInformation": "must visir",
+      "productImage": "https://avatars.mds.yandex.net/i?id=a16f1a67b4fd8c35190c46a9e02541ea-5859687-images-thumbs&n=13&exp=1",
+      "productPrice": "100$",
+      "id": 2
+    },
+    {
+      "productTour": "Batken",
+      "productInformation": "must visit",
+      "productImage": "https://avatars.mds.yandex.net/i?id=e1cd31e98146569d36a53257d6e6c125-4957727-images-thumbs&n=13&exp=1",
+      "productPrice": "100$",
+      "id": 3,
+      "productInpformation": "must visit"
+    }
+  ]
+}
